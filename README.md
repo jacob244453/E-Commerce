@@ -9,5 +9,5 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
 
-## Demo and usage
+## Demo 
 A link to a demonstation can be found here: https://imgur.com/a/QDQVElB 
