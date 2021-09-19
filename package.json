@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "dotenv": "^10.0.0",
+    "express": "^4.17.1",
     "mysql": "^2.18.1",
     "mysql2": "^2.3.0",
     "sequelize": "^6.6.5"
@@ -12,7 +13,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start": "node Develop/server.js",
     "watch": "nodemon server.js",
     "seed": "node Develop/seeds/index.js"
   },
@@ -27,4 +28,3 @@
   },
   "homepage": "https://github.com/jacob244453/E-Commerce#readme"
 }
-
